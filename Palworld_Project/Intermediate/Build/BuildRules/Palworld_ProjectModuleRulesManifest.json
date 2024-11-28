@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\Palworld_Project\\Source\\Palworld_Project\\Palworld_Project.Build.cs",
+		"C:\\Projects\\Palworld_Project\\Source\\Palworld_Project.Target.cs",
+		"C:\\Projects\\Palworld_Project\\Source\\Palworld_ProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
